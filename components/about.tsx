@@ -38,7 +38,7 @@ export function About() {
 
             <p className="text-muted-foreground leading-relaxed">
               {
-                "Currently, I'm a Developer Advocate at DbVis Software, specializing in database management systems and technical publication. I empower the global developer community to interact with data more efficiently, contributing to the official documentation and connection guides for industry-standard systems like PostgreSQL, MySQL, and ClickHouse. My goal is to serve as the voice of the developer, collaborating with engineering teams to prioritize features that solve real-world technical challenges."
+                "Currently, I'm a Developer Advocate at DbVis Software Ab, specializing in database management systems. I empower the global developer community to interact with data more efficiently, contributing to the official documentation and connection guides for industry-standard systems like PostgreSQL, MySQL, and ClickHouse. My goal is to serve as the voice of the developer, collaborating with engineering teams to prioritize features that solve real-world technical challenges."
               }
             </p>
 
