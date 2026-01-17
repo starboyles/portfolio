@@ -7,7 +7,7 @@ const experiences = [
     company: "DbVis Software",
     companyUrl: "https://www.dbvis.com",
     description:
-      "Empowering the global database community to manage data efficiently using DbVisualizer and architecting official documentation and connection guides for PostgreSQL, ClickHouse, and MySQL while serving as the voice of the developer internally to drive feature prioritization.",
+      "Empowering the global database community to manage data efficiently using DbVisualizer and architecting official documentation and connection guides for PostgreSQL, ClickHouse, and MySQL while serving as the voice of the developer internally to drive feature prioritization",
     skills: ["Developer Advocacy", "Structured Query Language", "Technical Writing" ]
   },
   {
@@ -23,19 +23,19 @@ const experiences = [
     period: "2024 — 2024",
     title: "Technical Author",
     company: "Bright Data",
-    companyUrl: "#",
+    companyUrl: "https://brightdata.com/",
     description:
-      "Created interface designs for collaborative workspace features. Conducted user testing and iterated on feedback to improve core workflows.",
-    skills: ["UI Design", "Interaction Design", "Accessibility"],
+      "Developed deep-dive technical guides on building web scrapers",
+    skills: ["Web Scraping", "APIs", "Python", "Selenium"],
   },
   {
-    period: "2017 — 2019",
-    title: "Junior Designer",
-    company: "IDEO",
-    companyUrl: "#",
+    period: "2023 — 2024",
+    title: "Product & API Technical Documentation Engineer",
+    company: "Yemaachi Biotech",
+    companyUrl: "https://yemaachi.com",
     description:
-      "Supported senior designers on client projects across healthcare, finance, and consumer tech. Developed skills in design thinking methodology.",
-    skills: ["Design Thinking", "Workshops", "Visual Design"],
+      "Managed critical technical documentation for clinical data management systems to ensure seamless data transparency within a biotech environment",
+    skills: ["Technical Documentation", "API Design Thinking", "Healthcare Tech"],
   },
 ]
 
