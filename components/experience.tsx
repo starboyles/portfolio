@@ -2,10 +2,10 @@ import { ArrowUpRight } from "lucide-react"
 
 const experiences = [
   {
-    period: "2023 — Present",
-    title: "Senior Product Designer",
-    company: "Vercel",
-    companyUrl: "#",
+    period: "2022 — Present",
+    title: "Developer Advocate",
+    company: "DbVis Software",
+    companyUrl: "https://www.dbvis.com",
     description:
       "Lead design for core product experiences and contribute to the design system. Work closely with engineering to implement accessible, performant interfaces.",
     skills: ["Figma", "React", "TypeScript", "Design Systems"],
