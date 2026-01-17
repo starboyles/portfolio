@@ -23,7 +23,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "BrightData",
+    title: "Bright Data",
     description: "Get structured, reliable, real-time or historical data at petabyte-scale",
     tags: ["Web Scraping", "APIs", "Python", "Selenium"],
     image: "/brightdata.png",
