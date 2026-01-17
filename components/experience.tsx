@@ -7,22 +7,22 @@ const experiences = [
     company: "DbVis Software",
     companyUrl: "https://www.dbvis.com",
     description:
-      "Lead design for core product experiences and contribute to the design system. Work closely with engineering to implement accessible, performant interfaces.",
-    skills: ["Figma", "React", "TypeScript", "Design Systems"],
+      "Empowering the global database community to manage data efficiently using DbVisualizer and architecting official documentation and connection guides for PostgreSQL, ClickHouse, and MySQL while serving as the voice of the developer internally to drive feature prioritization.",
+    skills: ["Developer Advocacy", "Structured Query Language", "Technical Writing" ]
   },
   {
-    period: "2021 — 2023",
-    title: "Product Designer",
-    company: "Stripe",
-    companyUrl: "#",
+    period: "2024 — 2024",
+    title: "Software Engineer",
+    company: "Open Source GH",
+    companyUrl: "https://github.com/OpenSource-GH",
     description:
-      "Designed payment flows and merchant dashboard experiences. Collaborated with PM and engineering to ship features serving millions of users.",
-    skills: ["Product Design", "Prototyping", "User Research"],
+      "Engineered a backend system for a national power outage tracking platform. Designed and implemented robust RESTful API endpoints for efficient data collection and pattern analysis",
+    skills: ["Node.js", "RESTful APIs", "Backend Development"],
   },
   {
-    period: "2019 — 2021",
-    title: "UI/UX Designer",
-    company: "Notion",
+    period: "2024 — 2024",
+    title: "Technical Author",
+    company: "Bright Data",
     companyUrl: "#",
     description:
       "Created interface designs for collaborative workspace features. Conducted user testing and iterated on feedback to improve core workflows.",
