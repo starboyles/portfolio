@@ -1,10 +1,9 @@
 import { Github, Linkedin, Twitter, Dribbble } from "lucide-react"
 
 const socials = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Twitter, href: "#", label: "Twitter" },
-  { icon: Dribbble, href: "#", label: "Dribbble" },
+  { icon: Github, href: "https://github.com/starboyles", label: "GitHub"},
+  { icon: Linkedin, href: "www.linkedin.com/in/lesliegyamfi", label: "LinkedIn"},
+  { icon: Twitter, href: "https://x.com/thestarboyles", label: "Twitter" },
 ]
 
 export function About() {
@@ -32,7 +31,7 @@ export function About() {
           <div className="lg:col-span-8 space-y-6">
             <p className="text-lg md:text-xl text-foreground leading-relaxed">
               {
-                "I'm a software and documentation engineer passionate about architecting scalable backend systems and crafting technical narratives that bridge the gap between complex code and developer understanding. My favorite work lies at the intersection of engineering and developer experience (DX), building tools and documentation that are not only high-performing but meticulously designed for clarity and usability."
+                "I'm a software and documentation engineer passionate about architecting scalable systems and crafting technical narratives that bridge the gap between complex code and developer understanding. My favorite work lies at the intersection of engineering and developer experience (DX), building tools and documentation that are not only high-performing but meticulously designed for clarity and usability."
               }
             </p>
 
