@@ -22,7 +22,7 @@ export function Hero() {
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif leading-[1.1] tracking-tight text-foreground mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-100">
             {
-              "I’m an independent software and documentation engineer. While building robust systems is my primary focus, I treat documentation as a core feature of the code itself, believing that technical clarity is just as vital as performance."
+              "I’m a software and documentation engineer. While building robust systems is my primary focus, I treat documentation as a core feature of the code itself, believing that technical clarity is just as vital as performance."
             }
           </h1>
 
