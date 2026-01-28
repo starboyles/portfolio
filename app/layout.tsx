@@ -10,7 +10,7 @@ const _playfair = Playfair_Display({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Leslie S. Gyamfi — Software & Documentation Engineer",
   description:
-    "Digital product designer crafting thoughtful, accessible interfaces that blend design with engineering.",
+    "I’m an independent software and documentation engineer",
   generator: "v0.app",
   icons: {
     icon: [
