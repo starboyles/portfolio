@@ -5,10 +5,9 @@ import Link from "next/link"
 import { cn } from "@/lib/utils"
 
 const navItems = [
-  { label: "Work", href: "#work" },
-  { label: "About", href: "#about" },
-  { label: "Experience", href: "#experience" },
-  { label: "Contact", href: "#contact" },
+  { label: "Blog", href: "#blog" },
+  { label: "Thoughts", href: "#thoughts" },
+  { label: "Moodboard", href: "#moodboard" }
 ]
 
 export function Header() {
@@ -51,7 +50,7 @@ export function Header() {
           href="#contact"
           className="hidden md:inline-flex items-center gap-2 px-4 py-2 text-sm bg-primary text-primary-foreground rounded-full hover:opacity-90 transition-opacity"
         >
-          Get in touch
+          Get in touch?
         </Link>
 
         <button className="md:hidden text-foreground" aria-label="Menu">
