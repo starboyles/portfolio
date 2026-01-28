@@ -16,7 +16,7 @@ const projects = [
   {
     id: 2,
     title: "Yemaachi Biotech",
-    description: "The world’s most robust cancer knowledge base to develop the next gen of cancer drugs effective in diverse populations",
+    description: "The world’s most robust cancer knowledge base developing the next gen of cancer drugs effective in diverse populations",
     tags: ["Technical Documentation", "API Design", "Healthcare Tech"],
     image: "/yemaachi.jpg",
     year: "2024",
@@ -32,7 +32,7 @@ const projects = [
   {
     id: 4,
     title: "Open Source GH",
-    description: "Backend system for a national power outage tracking platform",
+    description: "Public utililty tracking platform",
     tags: ["APIs", "NodeJS", "Performance Optimization"],
     image: "/Open Source.jpg",
     year: "2024",
@@ -45,8 +45,8 @@ export function SelectedExperiences() {
   return (
     <section id="experiences" className="py-24 md:py-32">
       <div className="max-w-6xl mx-auto px-6">
-        <div className="flex items-center justify-between mb-12">
-          <h2 className="text-sm text-muted-foreground tracking-wide">Selected Experiences</h2>
+        <div className="flex items-center justify-between mb-1">
+          <h2 className="text-sm text-muted-foreground tracking-wide">Selected Works</h2>
           <div className="flex gap-2">
             <button className="p-2 rounded-full border border-border text-muted-foreground hover:text-foreground hover:border-foreground transition-colors">
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
